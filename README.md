@@ -7,10 +7,12 @@ This repository contains **5 beginner-friendly Python projects** to understand *
 
 ---
 
-## 1. [Student Management System](student_management_system.py)
+## 1. [Student Management System](student_management_system.py)  
+![Alt text](https://tse2.mm.bing.net/th/id/OIP.-8KDcaFyXvaTqZUrG1OqrAHaDQ?pid=Api&P=0&h=180)  
 **Concepts:** Class, Objects, Instance Attributes, Methods  
-**Description:**  
-- Create a `Student` class with `name`, `roll_no`, `marks`.  
+**Description:**                                                           
+                                                       
+- Create a `Student` class with `name`, `roll_no`, `marks`.                           
 - Add methods to display student info and calculate grade.
 
 ---
@@ -18,7 +20,7 @@ This repository contains **5 beginner-friendly Python projects** to understand *
 ## 2. [Bank Account Simulator](bank_account_simulator.py)
 **Concepts:** Class Attributes, Instance Attributes, Methods  
 **Description:**  
-- Create a `BankAccount` class with `account_number`, `balance`.  
+- Create a `BankAccount` class with `account_number`, `balance`. ![Alt text](https://tse2.mm.bing.net/th/id/OIP.ESJw7FZasQjL_GbMgBc8igHaDl?pid=Api&P=0&h=180)  
 - Methods for `deposit`, `withdraw`, and `check_balance`.
 
 ---
