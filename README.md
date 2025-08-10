@@ -27,6 +27,7 @@ This repository contains **5 beginner-friendly Python projects** to understand *
 ---
 
 ## 3. [Library Book Management](library_book_management.py)
+![Alt text](https://tse2.mm.bing.net/th/id/OIP.GyVnb_dZqzqTMR-yRwB8zQHaD4?pid=Api&P=0&h=180)  
 **Concepts:** Multiple Objects, Instance Methods  
 **Description:**  
 - Create a `Book` class with `title`, `author`, `available`.  
@@ -35,6 +36,7 @@ This repository contains **5 beginner-friendly Python projects** to understand *
 ---
 
 ## 4. [Simple Calculator](simple_calculator.py)
+[Alt text](https://tse4.mm.bing.net/th/id/OIP.yfeEgNMMByfiRbKpfinP_AHaD4?pid=Api&P=0&h=180)  
 **Concepts:** Object Methods, Encapsulation  
 **Description:**  
 - Create a `Calculator` class with methods: `add`, `subtract`, `multiply`, `divide`.  
@@ -43,6 +45,7 @@ This repository contains **5 beginner-friendly Python projects** to understand *
 ---
 
 ## 5. [Car Information System](car_information_system.py)
+[Alt text](https://tse2.mm.bing.net/th/id/OIP.jt7FRvVHZ09X3OwixLL8-wHaEK?pid=Api&P=0&h=180)  
 **Concepts:** Constructor (`__init__`), Class vs Instance Attributes  
 **Description:**  
 - Create a `Car` class with `brand`, `model`, `year`.  
