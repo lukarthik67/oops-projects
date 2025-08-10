@@ -18,9 +18,10 @@ This repository contains **5 beginner-friendly Python projects** to understand *
 ---
 
 ## 2. [Bank Account Simulator](bank_account_simulator.py)
+![Alt text](https://tse3.mm.bing.net/th/id/OIP.DZN0VC1I2eJzm-0-UvbvsQHaHa?pid=Api&P=0&h=180)  
 **Concepts:** Class Attributes, Instance Attributes, Methods  
 **Description:**  
-- Create a `BankAccount` class with `account_number`, `balance`. ![Alt text](https://tse2.mm.bing.net/th/id/OIP.ESJw7FZasQjL_GbMgBc8igHaDl?pid=Api&P=0&h=180)  
+- Create a `BankAccount` class with `account_number`, `balance`. 
 - Methods for `deposit`, `withdraw`, and `check_balance`.
 
 ---
