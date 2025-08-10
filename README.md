@@ -1,3 +1,6 @@
+
+![Alt text](https://tse2.mm.bing.net/th/id/OIP.ESJw7FZasQjL_GbMgBc8igHaDl?pid=Api&P=0&h=180)
+
 # Beginner Python Projects — Classes & Objects
 
 This repository contains **5 beginner-friendly Python projects** to understand **Classes, Objects, Attributes, and Methods**.
