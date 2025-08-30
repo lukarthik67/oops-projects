@@ -1,5 +1,5 @@
 class Student:
-    def __init__(self, name, roll_number, marks):
+    def __init__(self, name,  roll_number, marks):
         self.name = name
         self.roll_number = roll_number
         self.marks = marks
