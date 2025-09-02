@@ -8,7 +8,7 @@ class Student:
         print(f"{self.name} having roll number-{self.roll_number} obtained marks-{self.marks}.")
 
 student_1 = Student("Karthik", 36, 99)
-student_2 = Student("Ram", 50, 100)
+student_2 = Student("Ram reddy", 50, 100)
 
 student_1.display_info()
 student_2.display_info()
