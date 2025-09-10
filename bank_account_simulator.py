@@ -24,14 +24,14 @@ class  BankAccount:
                
                   if self.balance  > 0 :
                          self.balance -= amount  
-                         print("amount:{amount} is debited from account:{self.account_number} succesfully.")
+                         print(f"amount:{amount} is debited from account:{self.account_number} succesfully.")
                   else:
                          print("Insufficient balance. Withdrawal not allowed.")  
                          
                          
                          
            def  check_balance (self) :
-                  print("balance in a account:{self.account_number} is {self.balance}. ")
+                  print(f"balance in a account:{self.account_number} is {self.balance}. ")
                 
 customer_1 = BankAccount(125638234,200)
 customer_2 = BankAccount(678573643,5000)
