@@ -1,3 +1,4 @@
+```python
 class Student:
     def __init__(self, name,  roll_number, marks):
         self.name = name
@@ -12,3 +13,4 @@ student_2 = Student("Ram reddy", 50, 100)
 
 student_1.display_info()
 student_2.display_info()
+```
