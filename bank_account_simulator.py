@@ -1,5 +1,4 @@
 
-``` python
 class  BankAccount:
     
     
@@ -62,4 +61,4 @@ while True :
        case 3:
               customer.check_balance()
        case _  : print("enter a valid choice:")          
-```
+
