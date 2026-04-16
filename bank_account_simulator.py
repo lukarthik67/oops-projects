@@ -23,12 +23,16 @@ class  BankAccount:
                         
            def  withdraw (self , amount):
                
-                  if self.balance  > 0 :
-                         self.balance -= amount  
-                         print(f"amount:{amount} is debited from account:{self.account_number} succesfully.")
-                  else:
-                         print("Insufficient balance. Withdrawal not allowed.")  
-                         
+              if amount <= 0:
+                     print("Invalid amount. Please enter a positive value.")
+                     return
+
+              if amount > self.balance:
+                     print("Insufficient balance. Withdrawal not allowed.")
+                     return
+
+              self.balance -= amount
+              print(f"Amount {amount} is debited from account {self.account_number} successfully.")
                          
                          
            def  check_balance (self) :
